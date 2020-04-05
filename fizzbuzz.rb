@@ -8,4 +8,3 @@ def fizzbuzz(number)
   elsif (number % 3 && 5)
     return :FizzBuzz"
   end
-end
